@@ -1,0 +1,4 @@
+corpus = """By this liberty they entered into a very laudable emulation to do all of them \
+what they saw did please one. If any of the gallants or ladies should say, Let us drink, \
+they would all drink.  If any one of them said, Let us play, they all played.  If one said, \
+Let us go a-walking into the fields they went all."""
